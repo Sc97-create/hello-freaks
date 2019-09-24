@@ -1,0 +1,2 @@
+# hello-freaks
+exploring github
